@@ -1,101 +1,112 @@
-#EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-
 # ================================
 # MOVIES
 # ================================
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",Cinemachi Kids
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg",Nick Jr Asia
+https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon South East Asia
+https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png",Kids TV
+https://cempedak-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Cinemachi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",Cinema One
-https://streaming.mncnow.id/live/eds/Cinema-One/sa_dash_vmx/Cinema-One.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",MNC Movie
-https://streaming.mncnow.id/live/eds/MNC-Movie/sa_dash_vmx/MNC-Movie.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png",Indovision Movies
-https://cempedak-live-cdn.mncnow.id/live/eds/Indovision-Movies/sa_dash_vmx/Indovision-Movies.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_11.png",Katalyst
-https://streaming.mncnow.id/live/eds/Katalyst/sa_dash_vmx/Katalyst.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Action Channel
-https://cempedak-live-cdn.mncnow.id/live/eds/ActionChannel/sa_dash_vmx/ActionChannel.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Gala TV
-https://streaming.mncnow.id/live/eds/GalaTV/sa_dash_vmx/GalaTV.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png",Epic Channel
-https://cempedak-live-cdn.mncnow.id/live/eds/EpicChannel/sa_dash_vmx/EpicChannel.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.png",Mnet Movies
-https://streaming.mncnow.id/live/eds/MnetMovies/sa_dash_vmx/MnetMovies.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.png",FilmBox
-https://cempedak-live-cdn.mncnow.id/live/eds/FilmBox/sa_dash_vmx/FilmBox.mpd
 
-# ================================
-# SPORTS
-# ================================
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png",Cinemachi Extra
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_17.png",ESPN
-https://cempedak-live-cdn.mncnow.id/live/eds/ESPN/sa_dash_vmx/ESPN.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.png",Fox Sports
-https://streaming.mncnow.id/live/eds/FoxSports/sa_dash_vmx/FoxSports.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_19.png",Eurosport
-https://cempedak-live-cdn.mncnow.id/live/eds/Eurosport/sa_dash_vmx/Eurosport.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png",Cinemachi Max
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
-# ================================
-# NEWS
-# ================================
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg",HITS
+https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_20.png",CNN International
-https://streaming.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_21.png",BBC World News
-https://cempedak-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png",Sky News
-https://streaming.mncnow.id/live/eds/SkyNews/sa_dash_vmx/SkyNews.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Movies Indonesia
+https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-# ================================
-# MUSIC
-# ================================
+#EXTINF:-1 group-title="MOVIES" tvg-id="mycinema.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png",My Cinema
+https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",MTV
-https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_24.png",VH1
-https://streaming.mncnow.id/live/eds/VH1/sa_dash_vmx/VH1.mpd
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png",Trace Urban
-https://cempedak-live-cdn.mncnow.id/live/eds/TraceUrban/sa_dash_vmx/TraceUrban.mpd
+#EXTINF:-1 group-title="MOVIES" tvg-id="mycinemaasia.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png?v=1",My Cinema Asia
+https://cempedak-live-cdn.mncnow.id/live/eds/MyCinemaAsia/sa_dash_vmx/MyCinemaAsia.mpd
 
-# ================================
-# KIDS
-# ================================
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Sports 1
+https://cempedak-live-cdn.mncnow.id/live/eds/Sports1/sa_dash_vmx/Sports1.mpd
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_26.png",Cartoon Network
-https://streaming.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_27.png",Disney Channel
-https://cempedak-live-cdn.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_11.png",Sports 2
+https://cempedak-live-cdn.mncnow.id/live/eds/Sports2/sa_dash_vmx/Sports2.mpd
 
-# ================================
-# DOCUMENTARY
-# ================================
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Sports 3
+https://cempedak-live-cdn.mncnow.id/live/eds/Sports3/sa_dash_vmx/Sports3.mpd
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_28.png",National Geographic
-https://streaming.mncnow.id/live/eds/NationalGeographic/sa_dash_vmx/NationalGeographic.mpd
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_29.png",Discovery Channel
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png",Sports 4
+https://cempedak-live-cdn.mncnow.id/live/eds/Sports4/sa_dash_vmx/Sports4.mpd
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_30.png",Music TV
+https://cempedak-live-cdn.mncnow.id/live/eds/MusicTV/sa_dash_vmx/MusicTV.mpd
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.png",MTV Asia
+https://cempedak-live-cdn.mncnow.id/live/eds/MTVAsia/sa_dash_vmx/MTVAsia.mpd
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.png",K-pop TV
+https://cempedak-live-cdn.mncnow.id/live/eds/KpopTV/sa_dash_vmx/KpopTV.mpd
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_17.png",Channel V
+https://cempedak-live-cdn.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_28.png",CNN Indonesia
+https://cempedak-live-cdn.mncnow.id/live/eds/CNNIndonesia/sa_dash_vmx/CNNIndonesia.mpd
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.png",BBC World News
+https://cempedak-live-cdn.mncnow.id/live/eds/BBCWorld/sa_dash_vmx/BBCWorld.mpd
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_19.png",Al Jazeera
+https://cempedak-live-cdn.mncnow.id/live/eds/AlJazeera/sa_dash_vmx/AlJazeera.mpd
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_20.png",CNBC
+https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_21.png",Sky News
+https://cempedak-live-cdn.mncnow.id/live/eds/SkyNews/sa_dash_vmx/SkyNews.mpd
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png",Eurosport News
+https://cempedak-live-cdn.mncnow.id/live/eds/EurosportNews/sa_dash_vmx/EurosportNews.mpd
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Lifestyle Channel
+https://cempedak-live-cdn.mncnow.id/live/eds/LifestyleChannel/sa_dash_vmx/LifestyleChannel.mpd
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_24.png",Travel Channel
+https://cempedak-live-cdn.mncnow.id/live/eds/TravelChannel/sa_dash_vmx/TravelChannel.mpd
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png",Food Network
+https://cempedak-live-cdn.mncnow.id/live/eds/FoodNetwork/sa_dash_vmx/FoodNetwork.mpd
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_26.png",Home and Living
+https://cempedak-live-cdn.mncnow.id/live/eds/HomeLiving/sa_dash_vmx/HomeLiving.mpd
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_27.png",Discovery Channel
 https://cempedak-live-cdn.mncnow.id/live/eds/DiscoveryChannel/sa_dash_vmx/DiscoveryChannel.mpd
 
-# ================================
-# LOCAL INDONESIA (Untuk channel yang tidak terklasifikasi)
-# ================================
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_29.png",National Geographic
+https://cempedak-live-cdn.mncnow.id/live/eds/NatGeo/sa_dash_vmx/NatGeo.mpd
 
-#EXTINF:-1 group-title="LOCAL INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_30.png",Indosiar
-https://cempedak-live-cdn.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
-#EXTINF:-1 group-title="LOCAL INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_31.png",RCTI
-https://streaming.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
-#EXTINF:-1 group-title="LOCAL INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_32.png",SCTV
-https://cempedak-live-cdn.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
-#EXTINF:-1 group-title="LOCAL INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_33.png",Trans7
-https://streaming.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
-#EXTINF:-1 group-title="LOCAL INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_34.png",Trans TV
-https://cempedak-live-cdn.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
-#EXTINF:-1 group-title="LOCAL INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_35.png",Metro TV
-https://streaming.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
-#EXTINF:-1 group-title="LOCAL INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_36.png",TV One
-https://cempedak-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
-#EXTINF:-1 group-title="LOCAL INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_37.png",ANTV
-https://streaming.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_31.png",History Channel
+https://cempedak-live-cdn.mncnow.id/live/eds/HistoryChannel/sa_dash_vmx/HistoryChannel.mpd
+
