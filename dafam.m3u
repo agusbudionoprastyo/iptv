@@ -254,27 +254,17 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://dl.dropboxusercontent.com/s/vxm41wbiyfmhbx1/inews.png", INEWS
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="myteve",RCTI_+_🇲🇨
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="myteve",INEWS_+_🇮🇩
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200744.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="myteve",Indosiar|@@@
-http://xtv.ooo:8080/live/83212539/43153928/350972.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="myteve",Indosiar|xtv_~
-http://xtv.ooo:8080/359052742/470428329/350972
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="myteve",Indosiar|alfax
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="myteve",Indosiar.video.mytv
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="myteve",Indosiar.(indihome)
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="INDONESIA",INDOSIAR
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="myteve",SCTV(indihome)
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="INDONESIA",SCTV
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="myteve",TVONE(indihome)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="INDONESIA",TVONE
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="myteve",TRANSTV(indihome)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="INDONESIA",TRANSTV
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="myteve",TRANS7(indihome)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="INDONESIA",TRANS7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
