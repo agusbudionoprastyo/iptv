@@ -14,7 +14,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_dash/rcti-2.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
-#EXTINF:-1 group-title="V++" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV
+#EXTINF:-1 group-title="V++" group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/1d/56/5c135d3be1df35c891185c15bf57-bcp.jpg?x-oss-process=style/mq200" tvg-id="GTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
